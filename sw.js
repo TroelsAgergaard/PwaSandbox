@@ -1,4 +1,4 @@
-// version 1
+// version 9
 let cacheName = 'static-cache-v9';
 let fileToCache = [ '/', '/index.html', '/fallback.html', '/img/thumb-1.png', '/img/banner.png', '/styles.css' ];
 
