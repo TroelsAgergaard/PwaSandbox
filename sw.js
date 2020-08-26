@@ -1,5 +1,5 @@
 // version 1
-let cacheName = 'static-cache-v8';
+let cacheName = 'static-cache-v9';
 let fileToCache = [ '/', '/index.html', '/fallback.html', '/img/thumb-1.png', '/img/banner.png', '/styles.css' ];
 
 self.addEventListener('install', function(event) {
