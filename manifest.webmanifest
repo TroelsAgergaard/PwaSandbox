@@ -1,0 +1,21 @@
+{
+    "name": "Super Mario",
+    "short_name": "SuperMario",
+    "start_url": "/index.html",
+    "background_color": "#F63232",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/img/mario.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/img/marioios.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "theme_color": "#F63232",
+    "orientation": "portrait-primary"
+}
